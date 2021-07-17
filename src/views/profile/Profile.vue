@@ -1,0 +1,17 @@
+<template>
+  <div>
+    <h1>个人</h1>
+    <h2>现在这个组件不是指的tabbar的子组件我的</h2>
+    <h2>而是指的首页这个子组件路由跳转之后显示的组件---这种路由组件必须要一个个建立</h2>
+  </div>
+</template>
+
+<script>
+export default {
+  name:"profile"
+}
+</script>
+
+<style scoped>
+
+</style>
